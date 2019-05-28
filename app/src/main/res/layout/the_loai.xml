@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/button_haiHuoc"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Hài Hước" />
+    <Button
+        android:id="@+id/button_kiemHiep"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Kiếm Hiệp" />
+    <Button
+        android:id="@+id/button_kinhDi"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Kinh Dị" />
+    <Button
+        android:id="@+id/button_hanhDong"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Hành Động" />
+</LinearLayout>

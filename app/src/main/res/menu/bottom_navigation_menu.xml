@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      >
+        <item
+            android:id="@+id/ic_home"
+            android:icon="@drawable/ic_storage_black_24dp"
+            android:title="Trang Chủ"
+            />
+
+        <item
+            android:id="@+id/ic_taikhoan"
+            android:icon="@drawable/ic_account_box_black_24dp"
+            android:title="account"
+            />
+    <item
+        android:id="@+id/ic_theloai"
+        android:icon="@drawable/ic_star_black_24dp"
+        android:title="Thể Loại"
+        />
+    <item
+        android:id="@+id/ic_quocgia"
+        android:icon="@drawable/ic_favorite_black_24dp"
+        android:title="Quốc Gia"
+        />
+
+
+
+
+
+</menu>

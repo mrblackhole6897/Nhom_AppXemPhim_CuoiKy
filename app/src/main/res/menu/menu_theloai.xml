@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+            <item
+                android:id="@+id/ic_haiHuoc"
+                android:icon="@drawable/ic_account_box_black_24dp"
+                android:title="Hài Hước"
+
+                />
+            <item
+                android:id="@+id/ic_kiemHiep"
+                android:icon="@drawable/ic_account_box_black_24dp"
+                android:title="Kiếm Hiệp"
+                />
+            <item
+                android:id="@+id/ic_kinhDi"
+                android:icon="@drawable/ic_account_box_black_24dp"
+                android:title="Kinh Dị"
+                />
+            <item
+                android:id="@+id/ic_hanhDong"
+                android:icon="@drawable/ic_account_box_black_24dp"
+                android:title="Hành Động"
+                />
+
+</menu>
